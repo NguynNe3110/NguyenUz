@@ -21,7 +21,7 @@
 </div>
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguynNe3110&theme=react-dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NguynNe3110&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🛠️ Technologies
 - **Mobile:** Kotlin, Android
