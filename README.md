@@ -7,10 +7,15 @@
 - 🌱 Hiện tại đang học hỏi và phát triển bản thân
 - 💻 Stack: Kotlin, MVVM, Mobile App Development
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguynNe3110&show_icons=true&theme=radical&count_private=true)
+###
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NguynNe3110&theme=radical)
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=NguynNe3110&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguynNe3110&theme=react-dark&hide_border=true)
