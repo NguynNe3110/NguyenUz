@@ -8,12 +8,12 @@
 - 💻 Stack: Kotlin, MVVM, Mobile App Development
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenUzuu&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguynNe3110&show_icons=true&theme=radical&count_private=true)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NguyenUzuu&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NguynNe3110&theme=radical)
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenUzuu&theme=react-dark&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguynNe3110&theme=react-dark&hide_border=true)
 
 ### 🛠️ Technologies
 - **Mobile:** Kotlin, Android
